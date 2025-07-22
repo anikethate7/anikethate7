@@ -6,25 +6,35 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-hate/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikethate2003@gmail.com)
   
 </div>
 
 ---
 
-## ⚡ **TECH STACK**
+## 🛠️ **TECH ARSENAL**
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+```
+╭─────────────────── CORE TECHNOLOGIES ───────────────────╮
+│                                                         │
+│  🔥 Java           ⚡ JavaScript      🚀 TypeScript     │
+│  ⚛️  React.js      🌐 Next.js        🟢 Node.js        │
+│  🍃 MongoDB        🔥 Firebase       ☁️  Cloud Tech     │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
+```
+
+![Java](https://img.shields.io/badge/🔥_Java-ED8B00?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/⚡_JavaScript-F7DF1E?style=for-the-badge&logoColor=black)
+![TypeScript](https://img.shields.io/badge/🚀_TypeScript-007ACC?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/⚛️_React-20232A?style=for-the-badge&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/🌐_Next.js-000000?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/🟢_Node.js-43853D?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/🍃_MongoDB-4EA94B?style=for-the-badge&logoColor=white)
+![Firebase](https://img.shields.io/badge/🔥_Firebase-039BE5?style=for-the-badge&logoColor=white)
 
 </div>
 
