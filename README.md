@@ -1,117 +1,123 @@
-# <div align="center">Aniket Hate</div>
+<h1 align="center">Hey, I'm Aniket Hate</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;AI+%26+Web+Solutions+Engineer" alt="Typing SVG" />
-</div>
+<p align="center">
+  <b>Jr. Software Engineer @ Zensar Technologies</b><br/>
+  Backend developer passionate about microservices, clean APIs, and distributed systems.
+</p>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-hate/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikethate2003@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anikethate7)
-  
-</div>
-
----
-
-## 🎯 About Me
-
-**Information Technology Student** at D. Y. Patil College of Engineering, Pune with a passion for building intelligent solutions that solve real-world problems. Experienced in full-stack development, AI integration, and modern web technologies.
-
-**Key Highlights:**
-- 🏆 **Global Rank 421** in TCS CodeVita Season 12 (Top 0.2% worldwide)
-- 🥈 **Runner-Up** at RBI Guide Bot Hackathon
-- 📊 **8.00/10.00 GPA** in Bachelor of Engineering
-- 💻 **Full-Stack Developer** with AI/ML expertise
+<p align="center">
+  <a href="mailto:anikethate2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aniket-hate">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/aniket-hate">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## About me
 
-<div align="center">
+Backend-focused software engineer based in Pune, Maharashtra. I work with Java and Spring Boot to build microservices and RESTful APIs that are clean, well-tested, and production-ready. Currently at Zensar Technologies — breaking down monolithic systems, automating CI/CD, and improving query performance with Apache Lucene and Kafka.
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- Currently working on: **Apache Kafka** and event-driven architecture
+- Learning: distributed systems, advanced Spring Security patterns
+- Ask me about: Spring Boot, microservices, JPA, Docker, JWT auth
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+---
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## Tech stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Backend & APIs**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
+**DevOps & CI/CD**
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Featured Projects
+**Testing & Quality**
 
-### 🏥 MediShare - Community Support Platform
-**Tech Stack:** `Next.js` `React` `TypeScript` `Firebase` `Gemini AI` `Tailwind CSS`
-
-- **AI-Powered Matching:** Intelligent NGO recommendations using Genkit & Gemini AI
-- **Secure Authentication:** Role-based access control with Firebase Authentication  
-- **Real-Time Updates:** Live request tracking via Firestore database
-- **Community Impact:** Connects donors with NGOs for medicine, clothing, and educational supplies
-
-### ⚖️ Justice Junction - AI Legal Assistant
-**Tech Stack:** `FastAPI` `React` `FAISS` `Llama3` `SQLite` `RAG Architecture`
-
-- **Multilingual Chatbot:** Context-aware legal responses in multiple languages
-- **Document Analysis:** Advanced document processing with RAG implementation
-- **Professional Network:** Integrated lawyer consultation platform
-- **Legal Dictionary:** Comprehensive legal terminology with intelligent search
-
-### 📢 GP-Alert - Campus Communication System
-**Tech Stack:** `React.js` `Vite` `Firebase Firestore` `Push Notifications API`
-
-- **Real-Time Notifications:** Instant delivery of academic and administrative updates
-- **Mobile-Responsive:** Clean, intuitive UI optimized for all devices
-- **Live Synchronization:** Seamless data sync across all user sessions
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## Projects
 
-<div align="center">
+### Financial Transaction Management API
+> Java · Spring Boot · PostgreSQL · Apache Kafka · Swagger
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anikethate7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=10"/>
+Secure RESTful APIs for managing financial transactions, account balances, and history. Async event streaming via Kafka, normalized JPA schema with `@OneToMany`/`@ManyToOne` mappings, and global exception handling via `@ControllerAdvice`.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikethate7&layout=compact&theme=github_dark&border_radius=10"/>
-
-</div>
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering - Information Technology** | *2022 - 2025*  
-D. Y. Patil College of Engineering, Pune  
-**GPA:** 8.00/10.00
-
-**Diploma in Information Technology** | *2019 - 2022*  
-Government Polytechnic, Nagpur  
-**GPA:** 92.05/100
+- Reduced average response time by ~40% through JPQL query optimization
+- 80%+ unit test coverage with JUnit and Mockito
+- All endpoints documented with Swagger/OpenAPI
 
 ---
 
-<div align="center">
+### User Authentication & Role-Based Access API
+> Spring Boot · Spring Security · MySQL · JWT · JUnit
 
-**📍 Based in Pune, Maharashtra**
+Full RBAC authentication system with stateless JWT-based auth, refresh token rotation, BCrypt hashing, and brute-force protection via rate limiting and account lockout.
 
-*Building tomorrow's solutions with today's technology*
+- Custom `UserDetailsService` + `OncePerRequestFilter` for JWT validation
+- `@PreAuthorize` for fine-grained role-based access control
+- 85%+ test coverage with JUnit, Mockito, and MockMvc
+- Swagger UI with Bearer token support
 
-![Profile Views](https://komarev.com/ghpvc/?username=anikethate7&color=0969DA&style=for-the-badge&label=Profile+Views)
+---
 
-</div>
+## Experience highlights
+
+| What | Impact |
+|------|--------|
+| Apache Lucene indexing system | 60% reduction in data query times |
+| CI/CD pipelines with Jenkins | 30% faster deployments |
+| Docker + Kubernetes deployment | 25% reduction in resource usage |
+| Splunk real-time log analysis | 35% faster issue resolution |
+| JUnit + JaCoCo test coverage | 85%+ coverage, 20% fewer production bugs |
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket-hate&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-hate&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
+
+---
+
+## Education
+
+- **B.E. in Information Technology** — D Y Patil College of Engineering, Pune (2022–2025)
+- **Diploma in Information Technology** — Government Polytechnic Nagpur (2019–2022)
+
+---
+
+<p align="center">
+  <i>Open to backend engineering roles and interesting problems. Let's connect!</i>
+</p>
